@@ -1,0 +1,27 @@
+## Interface: 110105, 110107, 11507, 40402, 30404
+
+## Version: 1.2.0
+## Author: Lo, xjc520, 男爵凯恩
+
+## Title:CombatAlert
+## Title-zhCN: |c00fffc01[战斗]|r [战斗提示]  CombatAlert
+## Notes: CombatAlert
+## Notes-zhCN:  放大了进出战斗字体，增加阵营图标
+## Category-enUS: Combat
+## Category-deDE: Kampf
+## Category-esES: Combate
+## Category-esMX: Combate
+## Category-frFR: Combat
+## Category-itIT: Combattimento
+## Category-koKR: 전투
+## Category-ptBR: Combate
+## Category-ruRU: Бой
+## Category-zhCN: 战斗
+## Category-zhTW: 戰鬥
+
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## IconTexture: Interface\AddOns\CombatAlert\Media\Combat
+
+CombatAlert.lua
+Common.lua
