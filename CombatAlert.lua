@@ -56,7 +56,7 @@ ns.class = {
 -- ====================
 local MyAddon = CreateFrame("Frame")
 local imsg = CreateFrame("Frame", "CombatAlert")
-imsg:SetSize(480, 80)
+imsg:SetSize(460, 85)
 imsg:SetPoint("TOP", 0, -250) --位置
 imsg:Hide()
 
@@ -66,7 +66,7 @@ do
     imsg.line = imsg:CreateTexture(nil, 'BACKGROUND')
     imsg.line:SetTexture([[Interface\QuestFrame\BonusObjectives]])
     imsg.line:SetPoint("CENTER")
-    imsg.line:SetSize(480, 85)
+    imsg.line:SetSize(460, 85)
     imsg.line:SetTexCoord(0.00195312, 0.818359, 0.359375, 0.507812)
 
     -- 职业图标
