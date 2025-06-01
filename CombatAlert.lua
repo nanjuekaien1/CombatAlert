@@ -22,7 +22,7 @@ ns.setting = {
     IconOffset = {-4, 3},         -- 两侧图标间距
     TextOffset = {0, 3},          -- 文字偏移
     FrameScale = 0.8,             -- 整体缩放
-    ClassIconPath = "Interface\\AddOns\\CombatAlert\\Media\\fabledrealmv2"
+    ClassIconPath = "Interface\\AddOns\\CombatAlert\\Media\\fabledrealmv2"   --职业图标Media文件内有其他样式。
 }
 
 ns.texts = {
