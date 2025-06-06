@@ -1,0 +1,3 @@
+fabled/fabledcore/fabledmyth/fabledrealmv2是职业图标材质来自（JiberishUI Icons）
+difficulty是副本难度图标
+glow 是渐变条（忘记以前干嘛用的了。）
