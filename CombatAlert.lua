@@ -22,6 +22,7 @@ ns.setting = {
     IconOffset = {-4, 3},         -- 两侧图标间距
     TextOffset = {0, 3},          -- 文字偏移
     FrameScale = 0.8,             -- 整体缩放
+    -- fabled/fabledcore/fabledmyth/fabledrealmv2是职业图标材质来自（JiberishUI Icons）图标坐标代码在39行-52行
     ClassIconPath = "Interface\\AddOns\\CombatAlert\\Media\\fabledrealmv2"   --职业图标Media文件内有其他样式。
 }
 
