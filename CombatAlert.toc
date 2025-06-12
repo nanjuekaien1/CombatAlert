@@ -7,7 +7,7 @@
 ## Title-zhCN: |c00fffc01[战斗]|r [战斗提示]  CombatAlert
 ## Notes: CombatAlert
 ## Notes-zhCN:  放大了进出战斗字体，增加阵营图标
-## Category-enUS: Combat
+## Category: Combat
 ## Category-deDE: Kampf
 ## Category-esES: Combate
 ## Category-esMX: Combate
